@@ -5,7 +5,7 @@
 * Released: 27-05-2011
 * Genre: Action, Adventure, Indie, RPG
 * Latest Version: 1.3.5.3
-* Developer: (Re-Logic)[https://re-logic.com]
+* Developer: [Re-Logic](https://re-logic.com)
 * Distributor: GOG
 
 Dig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?
