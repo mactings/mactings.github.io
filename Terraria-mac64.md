@@ -34,9 +34,9 @@ Are you up for the monumental task of exploring, creating, and defending a world
 * Size: 228 MB
 * DRM: None
 * Extras: Terraria Soundtrack VOL 1 (MP3), Terraria Soundtrack VOL 2 (MP3)
-'''
+```
 Google Drive:
 Mega:
 Uploaded:
 CloudShare:
-'''
+```
