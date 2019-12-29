@@ -1,4 +1,4 @@
-# Terraria (macOS)
+# **Terraria (macOS)**
 
 ### About This tthing
 * Type: Game/Mac
