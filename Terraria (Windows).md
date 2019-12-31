@@ -1,5 +1,11 @@
 # Terraria (Windows)
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 ### About This tthing
 * Type: Game/Win
 * Released: 16-05-2011
